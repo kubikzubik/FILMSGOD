@@ -1,7 +1,7 @@
 function Preloader() {
     return <div className="container center prel">
         <div className="preloader-wrapper active">
-            <div className="spinner-layer blue-grey">
+            <div className="spinner-layer">
                 <div className="circle-clipper left">
                     <div className="circle"></div>
                 </div><div className="gap-patch">
