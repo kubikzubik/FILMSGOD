@@ -3,7 +3,7 @@ function Footer() {
         <div className="footer-copyright">
             <div className="container">
                         {new Date().getFullYear()} Copyright FILMSGOD INC
-                        <a className="grey-text text-lightrn-4 right" href="http://t.me/zubrikaff">Contact developer</a>
+                        <a className="grey-text text-lightrn-4 right" href="https://t.me/zubrikaff">Contact developer</a>
             </div>
         </div>
     </footer>
