@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/FILMSGOD/static/css/main.c554577c.css",
-    "main.js": "/FILMSGOD/static/js/main.4ea749e3.js",
+    "main.js": "/FILMSGOD/static/js/main.b577b688.js",
     "index.html": "/FILMSGOD/index.html",
     "main.c554577c.css.map": "/FILMSGOD/static/css/main.c554577c.css.map",
-    "main.4ea749e3.js.map": "/FILMSGOD/static/js/main.4ea749e3.js.map"
+    "main.b577b688.js.map": "/FILMSGOD/static/js/main.b577b688.js.map"
   },
   "entrypoints": [
     "static/css/main.c554577c.css",
-    "static/js/main.4ea749e3.js"
+    "static/js/main.b577b688.js"
   ]
 }
